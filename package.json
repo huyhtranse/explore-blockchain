@@ -1,0 +1,23 @@
+{
+  "name": "explore-blockchain",
+  "version": "1.0.0",
+  "description": "for learning blockchain",
+  "main": "main.js",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoanghuy1409/explore-blockchain.git"
+  },
+  "author": "huyhtran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoanghuy1409/explore-blockchain/issues"
+  },
+  "homepage": "https://github.com/hoanghuy1409/explore-blockchain#readme"
+}
